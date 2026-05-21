@@ -362,6 +362,7 @@ Vamos deixar o site responsivo usando a mediaquery
     
 .navegacao  div{
     display: flex;
+   justify-content: center;
     flex-wrap: nowrap;
   
 
