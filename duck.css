@@ -360,10 +360,8 @@ Vamos deixar o site responsivo usando a mediaquery
         align-items: center;
     }
     
-.navegacao  div{
-    display: flex;
-   justify-content: center;
-    flex-wrap: nowrap;
+.navegacao  div {
+ 
   
 
 }
