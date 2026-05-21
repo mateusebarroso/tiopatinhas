@@ -362,7 +362,7 @@ Vamos deixar o site responsivo usando a mediaquery
     
 .navegacao  div {
  
-  
+   display: flex;
 
 }
     .navegacao li a {
