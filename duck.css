@@ -349,3 +349,25 @@ Vamos deixar o site responsivo usando a mediaquery
         font-size: 1.3em;
        }
 }
+
+
+
+@media screen and (max-width:320px) {
+
+    .cabecalho{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+.navegacao  div{
+    display: flex;
+    flex-wrap: nowrap;
+  
+
+}
+    .navegacao li a {
+        font-size: 0.8rem;
+    }
+    
+}
